@@ -1,16 +1,21 @@
-## Hi there 👋
+# Shunichi Ikebuchi
 
-<!--
-**shunichi-ikebuchi/shunichi-ikebuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software architect. I build backend systems in **Go**. Owner of **Pigeonworks, LLC**.
 
-Here are some ideas to get you started:
+I like computers, design, and software engineering.
+I’m interested in cultural anthropology, biology, history, and philosophy.
+I admire Go’s design philosophy — simplicity, clarity, composability. I also like Zig.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Work mainly lives here → [https://github.com/pigeonworks-llc](https://github.com/pigeonworks-llc)
+
+---
+
+# 池淵 峻一
+
+ソフトウェアアーキテクト。**Go** でバックエンドをつくっています。**Pigeonworks, LLC** の経営者です。
+
+コンピュータ・設計・ソフトウェアエンジニアリングが好きです。
+文化人類学・生物学・歴史・哲学に関心があります。
+Go の設計思想（シンプルさ／明快さ／組み合わせやすさ）が好きです。Zig も好きです。
+
+主な活動はこちら → [https://github.com/pigeonworks-llc](https://github.com/pigeonworks-llc)
