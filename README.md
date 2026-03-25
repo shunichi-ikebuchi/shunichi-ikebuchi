@@ -7,6 +7,7 @@ I’m interested in cultural anthropology, biology, history, and philosophy.
 I admire Go’s design philosophy — simplicity, clarity, composability. I also like Zig.
 
 Work mainly lives here → [https://github.com/pigeonworks-llc](https://github.com/pigeonworks-llc)
+Books → [Amazon author page](https://www.amazon.co.jp/-/e/B0GRZTZXJH)
 
 ---
 
@@ -19,3 +20,4 @@ Work mainly lives here → [https://github.com/pigeonworks-llc](https://github.c
 Go の設計思想（シンプルさ／明快さ／組み合わせやすさ）が好きです。Zig も好きです。
 
 主な活動はこちら → [https://github.com/pigeonworks-llc](https://github.com/pigeonworks-llc)
+著書はこちら → [Amazon 著者ページ](https://www.amazon.co.jp/-/e/B0GRZTZXJH)
